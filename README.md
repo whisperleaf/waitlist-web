@@ -31,7 +31,7 @@ The project includes a GitHub Actions workflow that automatically deploys to Git
 3. **Monitor the deployment:**
    - Go to the **Actions** tab in your repository
    - You should see a "Deploy to GitHub Pages" workflow running
-   - Once complete, your site will be available at: `https://[your-username].github.io/whisperleaf-mind-monitor/`
+   - Once complete, your site will be available at: `https://whisperleaf.github.io/waitlist-web/`
 
 ### Manual Deployment
 
